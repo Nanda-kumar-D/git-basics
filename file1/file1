@@ -1,3 +1,5 @@
 test content push to gh
 pull to git local
-f1 content conf
+stash
+git content conflict master
+f1 content conflict
