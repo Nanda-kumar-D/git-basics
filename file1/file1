@@ -3,3 +3,4 @@ pull to git local
 stash
 git content conflict master
 f1 content conflict
+f1 conf
